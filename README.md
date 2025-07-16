@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=4776E6&center=true&vCenter=true&width=600&lines=CyberSecurity+%26+Web3+Development;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=4776E6&center=true&vCenter=true&width=600&lines=CyberSecurity+%26+Web3+Development" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -41,7 +41,6 @@
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   </details>
 
-<br/>
 
 <div align="center">
   <h2>
@@ -51,27 +50,11 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/DudeGuuud/NarrFlow-Web3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DudeGuuud&repo=NarrFlow-Web3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4776E6&icon_color=4776E6&text_color=c9d1d9" width="49%" alt="GitHub Mainpage"/>
-  </a>
-  <!-- Add more projects as you create them -->
-</div>
-
-<br/>
-
-<div align="center">
   <h2>
     <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25px">
     GitHub Activity
   </h2>
 </div>
-
-<!-- GitHub Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DudeGuuud&theme=react-dark&hide_border=true&bg_color=0D1117&color=4776E6&line=4776E6&point=FFFFFF" width="98%" alt="Activity Graph"/>
-</div>
-
-<br/>
 
 <!-- 3D Contribution Calendar -->
 <div align="center">
