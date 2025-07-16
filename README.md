@@ -42,20 +42,6 @@
   </details>
 
 
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px"> 
-    Featured Projects
-  </h2>
-</div>
-
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25px">
-    GitHub Activity
-  </h2>
-</div>
-
 <!-- 3D Contribution Calendar -->
 <div align="center">
   <h2>
